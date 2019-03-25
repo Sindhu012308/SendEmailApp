@@ -1,0 +1,3 @@
+# SendEmailApp
+
+This application is about sending an email for an user. This can be used in real-time applications where user can receive an email when they signup for new account in facebook, github etc...
